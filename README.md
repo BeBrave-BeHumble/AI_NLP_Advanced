@@ -1,2 +1,3 @@
 # AI_NLP_Advanced
-## Deep learning 
+
+Chapters 1 to 12 are the contents of the Deep Learning book, '밑바닥부터 시작하는 딥러닝'.
